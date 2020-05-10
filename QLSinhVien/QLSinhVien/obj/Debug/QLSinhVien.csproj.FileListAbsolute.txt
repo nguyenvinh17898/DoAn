@@ -1,9 +1,0 @@
-D:\CShape\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
-D:\CShape\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
-D:\CShape\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
-D:\CShape\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csprojResolveAssemblyReference.cache
-D:\CShape\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Form1.resources
-D:\CShape\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
-D:\CShape\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.Cache
-D:\CShape\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
-D:\CShape\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
